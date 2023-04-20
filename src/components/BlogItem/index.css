@@ -1,0 +1,93 @@
+.blog-item {
+  border: 1px solid #d3d3d3;
+  border-radius: 5px;
+  margin: 15px;
+  list-style-type: none;
+}
+
+.blog-item-link {
+  color: #000000;
+  text-decoration: none;
+}
+
+.blog-item-container {
+  display: flex;
+  flex-direction: row;
+  margin: 15px;
+  width: 1200px;
+}
+.blog-container {
+  display: flex;
+  flex-direction: column;
+}
+.itemsa1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+p {
+  font-size: 15px;
+  width: 190px;
+}
+.each-items {
+  font-weight: bold;
+  font-size: 15px;
+}
+.card {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  margin: 15px;
+}
+.card2 {
+  display: flex;
+  flex-direction: row;
+}
+.card3 {
+  display: flex;
+}
+button {
+  background-color: white;
+  width: 130px;
+  color: orange;
+  border-radius: 5px;
+  border-color: orange;
+
+  border-style: solid;
+  height: 37px;
+  margin: 5px;
+}
+.button1 {
+  background-color: orange;
+  color: white;
+  border-radius: 5px;
+  border-color: orange;
+
+  border-style: solid;
+  height: 37px;
+  margin-bottom: 5px;
+}
+.button-container {
+  display: flex;
+  margin: 5px;
+}
+.cards {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+h5 {
+  color: orange;
+}
+.para {
+  height: 15px;
+  padding-left: 10px;
+}
+.home-card {
+  display: flex;
+  flex-shrink: 3;
+}
+.bg-color {
+  background-color: orange;
+  font-size: 20px;
+}
